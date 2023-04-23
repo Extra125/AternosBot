@@ -1,5 +1,5 @@
 {
-  "name": "aternosbot",
+  "name": "mickle",
   "version": "2.0.0",
   "description": "Бот, который прогружает сервер на Aternos'e",
   "main": "index.js",
